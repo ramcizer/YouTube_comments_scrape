@@ -52,9 +52,6 @@ def you_tube_comment_scrape(page_URL_String, name_of_url):
     all_results.to_excel(f'Comment_Results_{name_of_url}.xlsx')
 
 
-you_tube_comment_scrape('https://www.youtube.com/watch?v=Msfw49eoWYU', 'Democracy Now')
-you_tube_comment_scrape('https://www.youtube.com/watch?v=Bw0T5-yjN90&t=1s', 'Breitbart')
-
 
 
 
