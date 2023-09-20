@@ -1,3 +1,6 @@
+# You'll need to have the appropriate version of the Chromedriver
+# Some more info at https://www.selenium.dev/documentation/webdriver/browsers/chrome/
+
 import time
 import csv
 from selenium import webdriver
